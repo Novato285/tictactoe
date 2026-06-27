@@ -10,3 +10,6 @@ para la siguiente partida y sera el primer jugador
 NOTA: Todos estos son vestigios de las siguientes funcionalidades que se planean
 agregar en un futuro junto con quiza una interfaz usando Flutter.
 
+INSTRUCCIONES PARA CORRERLO PROGRAMA EN TERMINAL
+
+Clona el repositorio, una vez este dentro de tu carpeta de usuario entonces entra a la ruta de la carpeta del repositorio en tu dispositivo, por ejemplo: 'cd C:\Users\Tu-Usuario\tictactoe'. Una vez dentro usa el siguiente comando: 'run dart tictactoe.dart' y presiona enter, una vez hayas hecho eso ya podras jugar sin problemas.
